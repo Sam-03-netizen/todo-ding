@@ -40,8 +40,3 @@ The goal is to show how the **Web Audio API** can be used in a practical, real-w
 - **CSS** – Styling  
 - **JavaScript** – App logic  
 - **Web Audio API** – Sound feedback  
-
----
-
-## 📂 Folder Structure
-
