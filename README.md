@@ -1,51 +1,47 @@
-✅ To-Do List with Done Sound
+# 🔔 To-Do List with Done Sound
 
-A simple and interactive To-Do List web app where marking a task as complete plays a satisfying “ding” sound using the Web Audio API.
-This project demonstrates how sound feedback can improve user experience in small web applications.
+A simple and interactive to-do list web app where completing a task plays a satisfying **“ding” sound** using the browser’s Audio API.  
+This project demonstrates how small audio feedback can improve user experience in web applications.
 
-🚀 Features
+---
 
-Add new tasks
+## 🚀 Features
 
-Click a task to mark it as completed
+- Add new tasks  
+- Click on a task to mark it as completed  
+- Plays a **ding sound** when a task is marked done  
+- Delete tasks  
+- (Optional) Saves tasks using **localStorage** so they persist after refresh  
 
-Plays a ding sound when a task is completed
+---
 
-Delete tasks
+## 🎯 Project Idea
 
-(Optional) Saves tasks using localStorage so they persist after refresh
+Most to-do apps only change visuals when a task is completed.  
+This project adds **audio feedback**, making the experience more interactive and rewarding.
 
-🎯 Why this project?
+The goal is to show how the **Web Audio API** can be used in a practical, real-world UI.
 
-Most to-do apps only change visuals when a task is completed.
-This project adds audio feedback, making task completion feel more rewarding and interactive.
+---
 
-It’s a small idea, but it shows:
+## 🧠 What This Project Teaches
 
-Creative use of the browser’s Audio API
+- DOM manipulation with JavaScript  
+- Handling click events  
+- Working with dynamic lists  
+- Playing sound using `new Audio()`  
+- Using `localStorage` to save data  
 
-Event-driven UI behavior
+---
 
-Better UX through feedback loops
+## 🛠 Tech Stack
 
-🧠 Learning
+- **HTML** – Structure  
+- **CSS** – Styling  
+- **JavaScript** – App logic  
+- **Web Audio API** – Sound feedback  
 
-DOM manipulation using JavaScript
+---
 
-Handling click events
+## 📂 Folder Structure
 
-Working with lists in the DOM
-
-Playing audio using new Audio()
-
-Storing data in localStorage
-
-🛠 Tech Stack
-
-HTML – Structure
-
-CSS – Styling
-
-JavaScript – Logic and Audio handling
-
-Web Audio API – For playing the “ding” sound
